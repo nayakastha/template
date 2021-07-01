@@ -17,6 +17,7 @@ dependencies:
 
   # utils
   equatable: ^2.0.0
+  dartdoc: ^1.0.0
 
 dev_dependencies:
   flutter_test:
